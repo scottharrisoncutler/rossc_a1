@@ -1,0 +1,7 @@
+mkdir sandbox
+cd sandbox
+touch commands.txt
+mkdir dir1
+mkdir dir2
+touch dir1/file1.txt
+touch dir2/file2.txt
